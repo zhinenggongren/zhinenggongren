@@ -20,5 +20,5 @@
  文件结构：
  Report文件夹中存放小组成员预习报告及综合作业报告
  平时作业在main分支中
- master分支中
+ master分支中Yolov5_Deepsort_Tracking.zip文件为项目代码
 
